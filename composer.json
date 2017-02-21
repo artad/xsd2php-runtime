@@ -18,7 +18,7 @@
   "license": "LGPL",
   "require": {
     "php": ">=5.5",
-    "jms/serializer": "~0.16",
+    "jms/serializer": "~0.12",
     "symfony/yaml": "^2.2|^3.0"
   },
   "conflicts": {
